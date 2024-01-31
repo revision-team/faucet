@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/revision-team.github.io/faucet/static/css/main.e6c13ad2.css",
-    "main.js": "/revision-team.github.io/faucet/static/js/main.c338f84b.js",
-    "static/js/787.44d920ef.chunk.js": "/revision-team.github.io/faucet/static/js/787.44d920ef.chunk.js",
-    "index.html": "/revision-team.github.io/faucet/index.html",
-    "main.e6c13ad2.css.map": "/revision-team.github.io/faucet/static/css/main.e6c13ad2.css.map",
-    "main.c338f84b.js.map": "/revision-team.github.io/faucet/static/js/main.c338f84b.js.map",
-    "787.44d920ef.chunk.js.map": "/revision-team.github.io/faucet/static/js/787.44d920ef.chunk.js.map"
+    "main.css": "/faucet/static/css/main.e6c13ad2.css",
+    "main.js": "/faucet/static/js/main.efaba72b.js",
+    "static/js/787.44d920ef.chunk.js": "/faucet/static/js/787.44d920ef.chunk.js",
+    "index.html": "/faucet/index.html",
+    "main.e6c13ad2.css.map": "/faucet/static/css/main.e6c13ad2.css.map",
+    "main.efaba72b.js.map": "/faucet/static/js/main.efaba72b.js.map",
+    "787.44d920ef.chunk.js.map": "/faucet/static/js/787.44d920ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c338f84b.js"
+    "static/js/main.efaba72b.js"
   ]
 }
